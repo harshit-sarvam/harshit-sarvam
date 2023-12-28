@@ -1,6 +1,6 @@
 # Me
-This is Harshit Kedia, from sarvam (AxonWise Pvt Ltd).
-This is my sarvam profile (primary github handle - @kediaharshit).
+I am Harshit Kedia, Founding Enginner building GenAI platform at Sarvam.AI.
+(primary github handle - @kediaharshit9).
 
 
 <!---
